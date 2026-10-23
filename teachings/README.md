@@ -4,6 +4,11 @@
 **Conversation:** the family chat  
 **Status:** First topic recorded: [Dandy's World](2026-10-23-001-dandys-world.md). Her request and the assistant's sourced explanation are labeled separately.
 
+## Lessons
+
+1. [Dandy's World basics](2026-10-23-001-dandys-world.md)
+2. [Making a game inspired by Dandy's World](2026-10-23-002-make-a-game.md)
+
 ## Saving a lesson
 
 Use a separate Markdown file, such as `2026-10-23-001-topic.md`.
