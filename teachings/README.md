@@ -2,7 +2,7 @@
 
 **Teacher:** Dad's daughter  
 **Conversation:** the family chat  
-**Status:** Ready for her first lesson. No lesson has been received or invented.
+**Status:** First topic recorded: [Dandy's World](2026-10-23-001-dandys-world.md). Her request and the assistant's sourced explanation are labeled separately.
 
 ## Saving a lesson
 
