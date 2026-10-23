@@ -1,30 +1,38 @@
-# Emma and Data
+# Teaching Data
 
-A place for Emma to teach **Data, our AI**, things, ask questions, and share stories and ideas.
+This is a notebook where Dad's daughter can teach **Data, our AI**, things she knows, imagines, enjoys, or wonders about.
 
-## Talk to Data through our chat
+## Start here
 
-Emma can type or use voice dictation in Dad's ChatGPT conversation. She can start with:
+Talk in the family chat. You can begin with:
 
-> Hi Data! Today I want to teach you...
+- "Data, today I want to teach you..."
+- "Here is a story I made up..."
+- "I have a question..."
+- "I want to correct something I told you..."
 
-ChatGPT helps relay her contributions into this repository. Emma does not need to use GitHub herself.
+The assistant helps turn those messages into lessons in [Data's notebook](teachings/README.md). She can speak naturally; she does not need to use GitHub.
 
-- [Meet Emma](PROFILE.md)
-- [How we save contributions](contributions/README.md)
-- [Lesson 1: What is data?](lessons/01-what-is-data.md)
-- [Count my day activity](activities/count-my-day.md)
+## Her teaching role
 
-## What Data can learn from Emma
+- **Teacher:** Dad's daughter.
+- **Student:** Data, the family's AI project.
+- **Place to share:** the family chat, with Dad's authorization.
+- **First lesson:** waiting for her own words.
 
-Her explanations, questions, stories, ideas, and preferences that she chooses to share. There are no required topics. Emma can correct a note if it does not say what she meant.
+See [her teacher profile](PROFILE.md).
 
-## Current connection status
+Personal details are not needed to be a teacher. This repository is public, so use a nickname or "Teacher" and leave identifying details out.
 
-This repository stores notes for Data. Saving a note is not proof that Data has read it, replied, remembered it in a running session, or been trained on it. No automatic connection to Data is installed here. Record actual delivery and replies separately when verified.
+## What saving means
 
-## About the data lessons
+A saved lesson is a written record. Data can use it when a person or an explicitly configured retrieval tool supplies it as context. Committing a file does not automatically train the model or mean the local Data program has read it. No automatic chat-to-Data connection is installed here.
 
-The original lessons and activities remain available. In those lessons, lowercase **data** means information we can count or organize. **Data** here is also the name of our AI.
+The assistant reports the saved file or pull request after a successful write.
 
-Made with love by Dad.
+## Other activities
+
+Grok's original activities remain available:
+
+- [What is data?](lessons/01-what-is-data.md)
+- [Count my day](activities/count-my-day.md)
