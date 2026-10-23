@@ -20,6 +20,8 @@ The assistant helps turn those messages into lessons in [Data's notebook](teachi
 - **Place to share:** the family chat, with Dad's authorization.
 - **First lesson:** waiting for her own words.
 
+See [her teacher profile](PROFILE.md).
+
 Personal details are not needed to be a teacher. This repository is public, so use a nickname or "Teacher" and leave identifying details out.
 
 ## What saving means
